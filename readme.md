@@ -1,4 +1,4 @@
-Learning Objectives- The  Learning objective for students is to understand the value of programming, and apply new programming knowledge practically. (It is not intended to help students master a specific language, but to excite them and immerse them in basic to intermediate web development). The objective is to learn how to learn. Because programming is always evolving and we can’t necessarily foresee what will become popular, the focus is on being able to learn and not on knowing one language per se. For example, html, css, js - common components of a website. Not always the case.. (For this component, just create a repo and have them clone it. Have a pureHtml branch, htmlAndCss branch, and a htmlCssJs branch so that they can see the difference.
+Learning Objectives (started at 6 am) - The  Learning objective for students is to understand the value of programming, and apply new programming knowledge practically. (It is not intended to help students master a specific language, but to excite them and immerse them in basic to intermediate web development). The objective is to learn how to learn. Because programming is always evolving and we can’t necessarily foresee what will become popular, the focus is on being able to learn and not on knowing one language per se. For example, html, css, js - common components of a website. Not always the case.. (For this component, just create a repo and have them clone it. Have a pureHtml branch, htmlAndCss branch, and a htmlCssJs branch so that they can see the difference.
 
 Command-line interface - Students will learn basics of interacting with machine via command line (terminal).
 Git - Understand how to use git in command line for basic version control
@@ -15,10 +15,12 @@ Modules
 	- Hello World example in html. 
 	- Hello World example in JavaScript in Chrome browser (intro to variables)
 	      HW - Create a website about something you’re interested in.
+
 2) Intro to Programming w/ JavaScript 		-Variables, types, assignment, conditionals, loops), Arrays
 		- Methods.
 		- Revisit web development to create content that changes based on user input on website.
- Capstone: students create chest sheet for common Javascript operations ( iterate 
+ Capstone: students create chest sheet for common Javascript operations ( iterate through array, reverse array, reverse string, fizz buzz)
+(Can show the built-in functions for some of these after).
 
 3) What do programmers do? - Intro to Algorithms 2 weeks.
 		- Sorting and Searching (Visual demonstrations)
@@ -27,6 +29,7 @@ Modules
 		- Second smallest
 	through array, var comparison, etc.)
 Capstone: find element in html, run some functions with html element as input.
+		(Learn more concise approach w/ query)
 
 4) Web Programming  - Html, css, and More javascript (Advanced)
 	- Css - additional tips, tools )hover, animation, etc)
