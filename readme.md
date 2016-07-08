@@ -18,17 +18,22 @@ Modules
 2) Intro to Programming w/ JavaScript 		-Variables, types, assignment, conditionals, loops), Arrays
 		- Methods.
 		- Revisit web development to create content that changes based on user input on website.
-3) What do programmers do? - Intro to Algorithms
+ Capstone: students create chest sheet for common Javascript operations ( iterate 
+
+3) What do programmers do? - Intro to Algorithms 2 weeks.
 		- Sorting and Searching (Visual demonstrations)
 		- Find k in an array…Binary Search
 		- Smallest value in array
 		- Second smallest
-3) Web Programming  - Html, css, and More javascript
+	through array, var comparison, etc.)
+Capstone: find element in html, run some functions with html element as input.
+
+4) Web Programming  - Html, css, and More javascript (Advanced)
+	- Css - additional tips, tools )hover, animation, etc)
 	- Combine knowledge of javascript and web to make real things
 	- Implement tic tac toe, connect 4?, snake, brickbreaker)
-4) Web Programming Advanced
-	- JSON - JavaScript Object Notation
-	- 
-Final Project - Students will make a full web app that consumes a popular service of choice (https://github.com/toddmotto/public-apis)
+	 Capstone: More adv
 
+Final Project - Students will make a full web app that is published to the web.
+Extra credit: consumes a popular service of choice (https://github.com/toddmotto/public-apis)
 
