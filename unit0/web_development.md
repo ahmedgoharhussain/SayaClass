@@ -10,5 +10,12 @@ The Web is the worldwide collection of text pages, digital photographs, music fi
 
 
 # The Web trinity - html, css, and javascript
+There are 3 languages that all web developers must learn 
 
-http://www.w3schools.com/html/
+   1. HTML to define the content of web pages - http://www.w3schools.com/html/
+
+   2. CSS to specify the layout of web pages  - http://www.w3schools.com/css/default.asp
+
+   3. JavaScript to program the behavior of web pages - http://www.w3schools.com/js/default.asp
+
+
