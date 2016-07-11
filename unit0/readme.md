@@ -15,4 +15,4 @@ The same thing happens when we use computers. Most people use computers to write
 
 The common point for both of these examples is that the user of the abstraction, sometimes also called the client, does not need to know the details as long as the user is aware of the way the interface works. This interface is the way we as users communicate with the underlying complexities of the implementation.
 
-[Intro to Web Development!](unit0/web_development.md)
+[Intro to Web Development!](/web_development.md)
